@@ -1,0 +1,50 @@
+@charset "utf-8";
+page{
+	font-family:serif;
+	text-align: center;
+	background-color:rgb(10,100,200);
+	margin-bottom:50px;
+}
+page cover_band{
+	margin-top:50px;
+	margin-bottom:25px;
+	display:block;
+	font-size:3em;
+	background-color:rgb(200,210,255);
+	text-shadow:grey 0px 0px 20px;
+}
+page des{
+	display:block;
+	margin-bottom:25px;
+	margin:100 0;
+	border-color:rgb(255,255,255);
+	border:double;
+	background-color:rgb(180,200,255);
+}
+page song{
+	display:block;
+	margin-top:20px;
+	color:#C9C9C9;
+}
+page ws{
+	display:block;
+}
+page song title{
+	display:block;
+	font-size:2em;
+	text-decoration:underline;
+	text-decoration-thickness:5em;
+	color:white;
+}
+page song artist{
+	display:block;
+	font-size:1.5em;
+}
+page song genre{
+	display:block;
+	font-size:1em;
+}
+page song year{
+	display:block;
+	font-size:1.25em;
+}

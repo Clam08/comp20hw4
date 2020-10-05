@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+<page>
+	<cover_band>2020, GO NEXT</cover_band>
+	<des>set list for comp20 in-class coffee house</des>
+	<song>
+		<title>Put Your Records On</title>
+		<artist>Ritt Momney</artist>
+		<genre>Pop</genre><year> 2020</year>
+	</song>
+	<song>
+		<title>Gimme Love</title>
+		<artist>Joji</artist>
+		<genre>Alternative/Indie</genre><year>2020</year>
+	</song>
+	<song>
+		<title>Sanctuary</title>
+		<artist>Joji</artist>
+		<genre>Alternative/Indie</genre><year>2020</year>
+	</song>
+	<song>
+		<title>Sunflower Seeds</title>
+		<artist>Bryce Vine</artist>
+		<genre>Hip-Hop/Rap</genre><year>2016</year>
+	</song>
+	<song>
+		<title>Lemon Boy</title>
+		<artist>Cavetown</artist>
+		<genre>Indie Pop</genre><year>2018</year>
+	</song>
+	<song>
+		<title>not ur friend</title>
+		<artist>Jeremy Zucker</artist>
+		<genre>Pop</genre><year>2020</year>
+	</song>
+	<song>
+		<title>Redbone</title>
+		<artist>Childish Gambino</artist>
+		<genre>Funk</genre><year>2016</year>
+	</song>
+	<song>
+		<title>Lost in My Boots</title>
+		<artist>KWAYE</artist>
+		<genre>Synth-pop/Neo soul/Pop</genre><year>2017</year>
+	</song>
+	<song>
+		<title>F2020</title>
+		<artist>Avenue Beat</artist>
+		<genre>Pop</genre><year>2020</year>
+	</song>
+	<song>
+		<title>Excuse Me Mr Sir</title>
+		<artist>Avicii, Vargas and Lagola</artist>
+		<genre>Dance/Electronic</genre><year>2019</year>
+	</song>
+</page>
